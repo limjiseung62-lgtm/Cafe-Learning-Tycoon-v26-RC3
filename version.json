@@ -1,0 +1,11 @@
+{
+  "sourceCommit": "48ef39c2039a9776408d549ed5ef6e573c4f540a",
+  "version": "2.6.0-rc.3",
+  "status": "student-test-candidate",
+  "storagePrefix": "cafe-v26-rc3/",
+  "publicDeploymentApproved": false,
+  "testDeploymentApproved": true,
+  "externalDeploymentExecuted": true,
+  "sourceCandidate": "48ef39c2039a9776408d549ed5ef6e573c4f540a",
+  "testUrl": "https://limjiseung62-lgtm.github.io/Cafe-Learning-Tycoon-v26-RC3/"
+}
